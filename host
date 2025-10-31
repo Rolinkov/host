@@ -38,8 +38,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 msftncsi.com
 0.0.0.0 login.msa.msidentity.com
 0.0.0.0 login.live.com
-0.0.0.0 www.bing.com
-0.0.0.0 bing.com
+#0.0.0.0 www.bing.com
+#0.0.0.0 bing.com
 
 
 0.0.0.0 cookielaw.org
