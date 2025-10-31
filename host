@@ -31,6 +31,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 push.services.mozilla.com
 0.0.0.0 content-signature-chains.prod.autograph.services.mozaws.net
 0.0.0.0 mozaws.net
+0.0.0.0 www.msftncsi.com
+0.0.0.0 edgesuite.net
+0.0.0.0 akamaiedge.net
+0.0.0.0 windowsupdate.com
+0.0.0.0 msftncsi.com
 
 0.0.0.0 cookielaw.org
 #0.0.0.0 chatgpt.com
