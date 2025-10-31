@@ -1,5 +1,5 @@
 # Title: Rolinkov /hosts
-#11.10.2025
+#31.10.2025
 
 
 127.0.0.1 localhost
@@ -16,6 +16,12 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
+
+0.0.0.0 fs-wildcard.microsoft.com.edgekey.net.globalredir.akadns.net
+0.0.0.0 fs-wildcard.microsoft.com.edgekey.net
+0.0.0.0 edgekey.net
+0.0.0.0 akadns.net
+0.0.0.0 microsoft.com
 
 0.0.0.0 cookielaw.org
 #0.0.0.0 chatgpt.com
