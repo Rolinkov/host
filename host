@@ -25,6 +25,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 a1961.g2.akamai.net
 0.0.0.0 akamai.net
 0.0.0.0 a-msedge.net
+0.0.0.0 mozilla.map.fastly.net
+0.0.0.0 fastly.net
+0.0.0.0 example.org
+0.0.0.0 push.services.mozilla.com
+0.0.0.0 content-signature-chains.prod.autograph.services.mozaws.net
+0.0.0.0 mozaws.net
 
 0.0.0.0 cookielaw.org
 #0.0.0.0 chatgpt.com
