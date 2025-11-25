@@ -16,7 +16,11 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-
+0.0.0.0 dennikn.sk
+0.0.0.0 aktuality.sk
+0.0.0.0 markiza.sk
+0.0.0.0 360tka.sk
+0.0.0.0 sme.sk
 0.0.0.0 fs-wildcard.microsoft.com.edgekey.net.globalredir.akadns.net
 0.0.0.0 fs-wildcard.microsoft.com.edgekey.net
 0.0.0.0 edgekey.net
