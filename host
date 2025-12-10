@@ -58,7 +58,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 dublincore.org
 0.0.0.0 www.purl.org
 0.0.0.0 www.dublincore.org
-
+0.0.0.0 creativecommons.org
+0.0.0.0 www.creativecommons.org
 
 0.0.0.0 cookielaw.org
 #0.0.0.0 chatgpt.com
