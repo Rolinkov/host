@@ -54,6 +54,10 @@ ff02::3 ip6-allhosts
 #0.0.0.0 www.bing.com
 #0.0.0.0 bing.com
 0.0.0.0 play.google.com
+0.0.0.0 purl.org
+0.0.0.0 dublincore.org
+0.0.0.0 www.purl.org
+0.0.0.0 www.dublincore.org
 
 
 0.0.0.0 cookielaw.org
