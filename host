@@ -4106,7 +4106,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ecn.dev.virtualearth.net 
 0.0.0.0 ecs.office.com 
 0.0.0.0 edge.activity.windows.com 
-0.0.0.0 edge.microsoft.com 
 0.0.0.0 edge.skype.com 
 0.0.0.0 ei.rlcdn.com 
 0.0.0.0 emdl.ws.microsoft.com 
