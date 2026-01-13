@@ -1,5 +1,5 @@
 # Title: Rolinkov /hosts
-# 09.01.2026
+# 13.01.2026
 
 
 127.0.0.1 localhost
@@ -113,6 +113,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.ccleaner.com 
 
 # Custom host records are listed here.
+
+0.0.0.0 googleusercontent.com
+0.0.0.0 www.googleusercontent.com
 
 0.0.0.0 r8.sn-4g5ednzz.googlevideo.com
 0.0.0.0 r8---sn-4g5ednzz.googlevideo.com
