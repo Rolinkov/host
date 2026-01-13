@@ -100,6 +100,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 compute-1.amazonaws.com
 0.0.0.0 dev1.ipm.corel.public.corel.net
 0.0.0.0 ipp.corel.com
+0.0.0.0 akamaitechnologies.com
+0.0.0.0 www.akamaitechnologies.com
 
 0.0.0.0 alpha-crap.ff.avast.com
 0.0.0.0 analytics.ff.avast.com
