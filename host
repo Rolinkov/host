@@ -28,6 +28,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 detectportal.firefox.com
 0.0.0.0 cmp.inmobi.com
 0.0.0.0 inmobi.com
+0.0.0.0 ctrk.klclick1.com
+0.0.0.0 klclick1.com
 
 0.0.0.0 dennikn.sk
 0.0.0.0 aktuality.sk
