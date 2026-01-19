@@ -1,5 +1,5 @@
 # Title: Rolinkov /hosts
-# 13.01.2026
+# 19.01.2026
 
 
 127.0.0.1 localhost
@@ -16,6 +16,19 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
+
+0.0.0.0 cdn.atmedia.hu
+0.0.0.0 atmedia.hu
+0.0.0.0 self.adblockultimate.net
+0.0.0.0 adblockultimate.net
+0.0.0.0 cdn.publisher1st.com
+0.0.0.0 publisher1st.com
+0.0.0.0 html-load.com
+0.0.0.0 firefox.settings.services.mozilla.com
+0.0.0.0 detectportal.firefox.com
+0.0.0.0 cmp.inmobi.com
+0.0.0.0 inmobi.com
+
 0.0.0.0 dennikn.sk
 0.0.0.0 aktuality.sk
 0.0.0.0 markiza.sk
