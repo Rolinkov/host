@@ -1,5 +1,5 @@
 # Title: Rolinkov /hosts
-# 01.02.2026
+# 08.02.2026
 
 
 127.0.0.1 localhost
@@ -32,6 +32,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 klclick1.com
 0.0.0.0 dmsik.com
 0.0.0.0 www.dmsik.com
+0.0.0.0 go.dmsik.com
+0.0.0.0 www.go.dmsik.com
 
 0.0.0.0 e-sperk.sk
 0.0.0.0 www.e-sperk.sk
