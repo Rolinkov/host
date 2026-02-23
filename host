@@ -1,5 +1,5 @@
 # Title: Rolinkov /hosts
-# 08.02.2026
+# 23.02.2026
 
 
 127.0.0.1 localhost
@@ -4643,7 +4643,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.tm.a.prd.aadg.akadns.net 
 0.0.0.0 www.xboxab.com 
 0.0.0.0 www.youtube-nocookie.com 
-0.0.0.0 www2.bing.com 
+#0.0.0.0 www2.bing.com 
 0.0.0.0 x.dlx.addthis.com 
 0.0.0.0 youtube.2cnt.net 
 0.0.0.0 yt3.ggpht.com 
