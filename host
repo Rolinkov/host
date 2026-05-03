@@ -1,5 +1,5 @@
 # Title: Rolinkov /hosts
-# 09.03.2026
+# 03.05.2026
 
 
 127.0.0.1 localhost
@@ -138,7 +138,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 ncc.avast.com
 0.0.0.0 ncc.avast.com.edgesuite.net
 0.0.0.0 shepherd.ff.avast.com
-0.0.0.0 www.ccleaner.com 
+0.0.0.0 www.ccleaner.com
+0.0.0.0 services.aida64.com
+0.0.0.0 update.aida64.com
+0.0.0.0 www.aida64.com
+0.0.0.0 www.myaida64.com
+
 
 # Custom host records are listed here.
 
